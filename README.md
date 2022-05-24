@@ -7,7 +7,7 @@
 
 
 Random Dev Joke:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
 
 <!---
 xX-MoonWalker-Xx/xX-MoonWalker-Xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
