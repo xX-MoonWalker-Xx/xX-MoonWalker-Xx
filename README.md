@@ -11,6 +11,3 @@
 Random Dev Joke:
 </br>
 <a href="https://github.com/xX-MoonWalker-Xx"><img align="center" src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Dev Joke"></a>
-</br>
-</br>
-<a href="https://p2pr.me/1653408365628d026d427c8"><img src="https://peer2profit.co/img/promo/en/p2p-banner-728x90.png" width="728"  height="90" /></a>
